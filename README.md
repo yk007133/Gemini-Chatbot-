@@ -2,10 +2,11 @@
 
 A Python-based intelligent chatbot powered by **Google Gemini API** and enhanced with **pyttsx3** for voice interaction. This assistant can answer your queries via voice and text—just like your personal AI assistant!
 
-**ChatBot Preview**
+---
+
+## 📷 ChatBot Preview
 
 ![Chatbot mp4 mp4](https://github.com/user-attachments/assets/a78a0cc0-7386-4427-8ce8-1c661e6f9f3e)
-
 
 
 ---
