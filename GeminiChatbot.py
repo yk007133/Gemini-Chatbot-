@@ -1,9 +1,9 @@
 import google.generativeai as genai
 import pyttsx3
 
-API_KEY = "AIzaSyAP_buDCeWuINWA3KOYh2jKSSc0BE9FzOY"
+API_KEY = "Your_API_KEY"
 
-# Initailize the text ti speech engine
+# Initailize speech engine
 
 engine  =  pyttsx3.init()
 engine.setProperty('volume', 1)  # Set the volume level (0.0 to 1.0)
